@@ -1,0 +1,1 @@
+Project of learning JavaScript.
